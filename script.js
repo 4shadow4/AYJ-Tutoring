@@ -1,0 +1,1 @@
+var AYJuser = "noUser";
